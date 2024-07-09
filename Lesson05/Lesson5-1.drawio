@@ -1,0 +1,146 @@
+<mxfile host="app.diagrams.net" modified="2024-07-05T08:33:26.997Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="44uZtBFr4WkGEgGA-iTp" version="24.6.4" type="device">
+  <diagram name="ページ1" id="vbqfwie_jZarZeUnsRRw">
+    <mxGraphModel dx="880" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="oPgl4sRnRrPDxQ_ldu7p-20" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;exitPerimeter=0;" edge="1" parent="1" source="oPgl4sRnRrPDxQ_ldu7p-46" target="oPgl4sRnRrPDxQ_ldu7p-51">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="170" y="220" as="sourcePoint" />
+            <mxPoint x="340" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oPgl4sRnRrPDxQ_ldu7p-22" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.98;entryDx=0;entryDy=0;endArrow=none;endFill=0;entryPerimeter=0;" edge="1" parent="1" source="oPgl4sRnRrPDxQ_ldu7p-51" target="oPgl4sRnRrPDxQ_ldu7p-61">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="140" as="sourcePoint" />
+            <mxPoint x="630" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oPgl4sRnRrPDxQ_ldu7p-24" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1.025;exitY=0.95;exitDx=0;exitDy=0;entryX=0;entryY=0.98;entryDx=0;entryDy=0;endArrow=none;endFill=0;exitPerimeter=0;entryPerimeter=0;" edge="1" parent="1" source="oPgl4sRnRrPDxQ_ldu7p-56" target="oPgl4sRnRrPDxQ_ldu7p-61">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="310" as="sourcePoint" />
+            <mxPoint x="630" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oPgl4sRnRrPDxQ_ldu7p-21" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;entryX=-0.037;entryY=0.925;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="oPgl4sRnRrPDxQ_ldu7p-46" target="oPgl4sRnRrPDxQ_ldu7p-56">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="170" y="220" as="sourcePoint" />
+            <mxPoint x="340.96000000000004" y="319" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oPgl4sRnRrPDxQ_ldu7p-26" value="0..1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="590" y="190" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oPgl4sRnRrPDxQ_ldu7p-27" value="0..1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="590" y="248" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oPgl4sRnRrPDxQ_ldu7p-29" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="440" y="310" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oPgl4sRnRrPDxQ_ldu7p-30" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="450" y="130" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oPgl4sRnRrPDxQ_ldu7p-31" value="*" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="170" y="190" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oPgl4sRnRrPDxQ_ldu7p-32" value="0..1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="310" y="120" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oPgl4sRnRrPDxQ_ldu7p-33" value="20..30" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="160" y="240" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oPgl4sRnRrPDxQ_ldu7p-34" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="330" y="310" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oPgl4sRnRrPDxQ_ldu7p-35" value="所属する▶" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="200" y="150" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oPgl4sRnRrPDxQ_ldu7p-36" value="所属する▶" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="210" y="290" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oPgl4sRnRrPDxQ_ldu7p-37" value="◀顧問をする" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="510" y="150" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oPgl4sRnRrPDxQ_ldu7p-38" value="◀担任をする" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="510" y="280" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oPgl4sRnRrPDxQ_ldu7p-45" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
+          <mxGeometry x="60" y="170" width="110" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="oPgl4sRnRrPDxQ_ldu7p-46" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="oPgl4sRnRrPDxQ_ldu7p-45">
+          <mxGeometry width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="oPgl4sRnRrPDxQ_ldu7p-47" value="生徒" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="oPgl4sRnRrPDxQ_ldu7p-46">
+          <mxGeometry width="110" height="50" as="geometry">
+            <mxRectangle width="110" height="50" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oPgl4sRnRrPDxQ_ldu7p-48" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="oPgl4sRnRrPDxQ_ldu7p-45">
+          <mxGeometry y="50" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="oPgl4sRnRrPDxQ_ldu7p-49" value="&lt;div&gt;名前&lt;/div&gt;&lt;div&gt;クラス番号&lt;/div&gt;出席番号" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="oPgl4sRnRrPDxQ_ldu7p-48">
+          <mxGeometry width="110" height="50" as="geometry">
+            <mxRectangle width="110" height="50" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oPgl4sRnRrPDxQ_ldu7p-50" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
+          <mxGeometry x="350" y="110" width="100" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="oPgl4sRnRrPDxQ_ldu7p-51" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="oPgl4sRnRrPDxQ_ldu7p-50">
+          <mxGeometry width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oPgl4sRnRrPDxQ_ldu7p-52" value="クラブ" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="oPgl4sRnRrPDxQ_ldu7p-51">
+          <mxGeometry width="100" height="40" as="geometry">
+            <mxRectangle width="100" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oPgl4sRnRrPDxQ_ldu7p-53" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="oPgl4sRnRrPDxQ_ldu7p-50">
+          <mxGeometry y="40" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="oPgl4sRnRrPDxQ_ldu7p-54" value="クラブ名&lt;div&gt;所属者名&lt;/div&gt;&lt;div&gt;顧問名&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="oPgl4sRnRrPDxQ_ldu7p-53">
+          <mxGeometry width="100" height="50" as="geometry">
+            <mxRectangle width="100" height="50" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oPgl4sRnRrPDxQ_ldu7p-55" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
+          <mxGeometry x="360" y="283" width="80" height="77" as="geometry" />
+        </mxCell>
+        <mxCell id="oPgl4sRnRrPDxQ_ldu7p-56" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="oPgl4sRnRrPDxQ_ldu7p-55">
+          <mxGeometry width="80" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="oPgl4sRnRrPDxQ_ldu7p-57" value="クラス" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="oPgl4sRnRrPDxQ_ldu7p-56">
+          <mxGeometry width="80" height="37" as="geometry">
+            <mxRectangle width="80" height="37" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oPgl4sRnRrPDxQ_ldu7p-58" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="oPgl4sRnRrPDxQ_ldu7p-55">
+          <mxGeometry y="37" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oPgl4sRnRrPDxQ_ldu7p-59" value="クラス番号&lt;div&gt;出席番号&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="oPgl4sRnRrPDxQ_ldu7p-58">
+          <mxGeometry width="80" height="40" as="geometry">
+            <mxRectangle width="80" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oPgl4sRnRrPDxQ_ldu7p-60" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
+          <mxGeometry x="630" y="180" width="110" height="97" as="geometry" />
+        </mxCell>
+        <mxCell id="oPgl4sRnRrPDxQ_ldu7p-61" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="oPgl4sRnRrPDxQ_ldu7p-60">
+          <mxGeometry width="110" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="oPgl4sRnRrPDxQ_ldu7p-62" value="先生" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="oPgl4sRnRrPDxQ_ldu7p-61">
+          <mxGeometry width="110" height="49" as="geometry">
+            <mxRectangle width="110" height="49" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oPgl4sRnRrPDxQ_ldu7p-63" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="oPgl4sRnRrPDxQ_ldu7p-60">
+          <mxGeometry y="49" width="110" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="oPgl4sRnRrPDxQ_ldu7p-64" value="名前&lt;div&gt;顧問クラブ&lt;/div&gt;&lt;div&gt;担任クラス&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="oPgl4sRnRrPDxQ_ldu7p-63">
+          <mxGeometry width="110" height="48" as="geometry">
+            <mxRectangle width="110" height="48" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
